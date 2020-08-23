@@ -96,8 +96,9 @@
 
 
 
+
 -fin-
 
-* or death, or victory
-** hope and faith
+    * or death, or victory
+    ** hope and faith
 
